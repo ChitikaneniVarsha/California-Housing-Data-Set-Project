@@ -4,16 +4,27 @@
 The California Housing Data Analysis project explores the California Housing dataset, which contains information gathered from the 1990 Census. The dataset consists of 20,640 examples of block groups, each representing a geographically compact area with an average population of 1,425.5 individuals. The dataset includes ten variables, providing details about the geographical location, housing characteristics, population, and income.
 
 **Dataset Features:**
+
 **longitude**: Continuous
+
 **latitude**: Continuous
+
 **housing Median Age**: Discrete
+
 **Total Rooms**: Discrete
+
 **Total Bedrooms**: Discrete
+
 **Population**: Discrete
+
 **Households**: Discrete
+
 **Median Income**: Continuous
+
 **Median House Value**: Discrete
+
 **Ocean Proximity**: Nominal
+
 **Questions Addressed**:
 
 **1.Average Median Income and Distribution:**
